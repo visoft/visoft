@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
-<h3 align="center">A passionate frontend developer from Bristol, CT USA</h3>
+<h3 align="center">A passionate fullstack developer from Bristol, CT USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visoft&label=Profile%20views&color=0e75b6&style=flat" alt="visoft" /> </p>
 
